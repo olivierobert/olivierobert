@@ -1,16 +1,13 @@
-### Hi there 👋
+# Olivier Robert 
 
-<!--
-**olivierobert/olivierobert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I am Olivier - currently the CTO and co-founder of [Nimble](https://nimblehq.co/) doing my best to create great engineering teams in Thailand and Vietnam. Previously worked at Lazada and Pomelo crafting all sort of e-commerce engineering things. I am a native from a remote and lesser-know French place called [Réunion island](https://goo.gl/maps/RVkx2wgJn4DWdobS6) Look it up 🔎
 
-Here are some ideas to get you started:
+## What I work on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My current faves are Ruby and Elixir ❤️ I also do spend lots of time with JavaScript + Node JS and venture in Go. As a continuous learner, I am attracted to all sort of new techie things #openmind
+
+## Get in touch 👋
+
+You can find me pretty much everywhere with the handle @olivierobert
+
+Find your latest book inspiration by checking out my [GoodReads](https://www.goodreads.com/user/show/60396497-olivier-robert) profile 📚
