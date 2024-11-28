@@ -1,6 +1,6 @@
 # Olivier Robert 
 
-Hi, I am Olivier - currently an Engineering Manager at [Sonar](https://nimblehq.co/](https://www.sonarsource.com/). Previously, I was the CTO and co-founder of [Nimble](https://nimblehq.co/) and worked at Lazada and Pomelo crafting all sorts of e-commerce engineering things. I am a native of a remote and lesser-know French place called [Réunion island](https://goo.gl/maps/RVkx2wgJn4DWdobS6) Look it up 🔎
+Hi, I am Olivier - currently an Engineering Manager at [Sonar](https://www.sonarsource.com/). Previously, I was the CTO and co-founder of [Nimble](https://nimblehq.co/) and worked at Lazada and Pomelo crafting all sorts of e-commerce engineering things. I am a native of a remote and lesser-know French place called [Réunion island](https://goo.gl/maps/RVkx2wgJn4DWdobS6) Look it up 🔎
 
 ## What I work on
 
